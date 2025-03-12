@@ -19,10 +19,11 @@ __contributors__ = [
     "frederic34",
     "memleketim05",
     "landswellsong",
-    "krzeminskim"
+    "krzeminskim",
+    "Jodaille"
 ]
 __license__ = "GPL"
-__version__ = "3.0.3"
+__version__ = "3.0.4"
 __maintainer__ = "Cedric PAILLE"
 __email__ = "cedricpaille@gmail.com"
-__status__ = "Pangolin"
+__status__ = "Axolotl"
